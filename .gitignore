@@ -1,0 +1,1 @@
+pycache/ *.pyc *.db .env *.sqlite3 migrations/ Pipfile.lock
